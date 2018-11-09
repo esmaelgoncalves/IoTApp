@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1049193194559",
+    "firebase_url": "https://iotapp-f1240.firebaseio.com",
+    "project_id": "iotapp-f1240",
+    "storage_bucket": "iotapp-f1240.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049193194559:android:94676aea9a165386",
+        "android_client_info": {
+          "package_name": "br.com.esmael.iotapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049193194559-0ep40s98eq9a1h54feu1igo8j25ek3kh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.esmael.iotapp",
+            "certificate_hash": "beb224284730e1ec2ea6857c4e52af0c0438cd6c"
+          }
+        },
+        {
+          "client_id": "1049193194559-b007tr7bt7ruis8f6kkk0dm1c4fpn2e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXcoBVVrNNfD8ARLEY6CvnqeBmzLOn6co"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049193194559-b007tr7bt7ruis8f6kkk0dm1c4fpn2e8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
